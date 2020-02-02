@@ -22,16 +22,13 @@ def remove_element_fros.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-  magic_schools = ["Hogwarts", "Durmstrang", "Beauxbatons"]
-  magic_schools[1]
+  
 end
 
 def retrieve_first_element_from_array(array)
-  magic_schools = ["Hogwarts", "Durmstrang", "Beauxbatons"]
-  magic_schools[0]
+  
 end
 
 def retrieve_last_element_from_array(array)
-  magic_schools = ["Hogwarts", "Durmstrang", "Beauxbatons"]
-  magic_schools[2]
+  
 end
