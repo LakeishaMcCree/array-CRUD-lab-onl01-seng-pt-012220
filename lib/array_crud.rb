@@ -11,16 +11,14 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  Hogwarts = ["Harry", "Ron", "Hermione"]
-  Hogwarts.unshift("Albus")
+  
 end
 
 def remove_element_from_end_of_array(array)
-  Hermione_Hogwarts = Hogwarts.pop
+  
 end
 
-def remove_element_from_start_of_array(array)
-  Harry = Hogwarts.shift
+def remove_element_fros.shift
 end
 
 def retrieve_element_from_index(array, index_number)
